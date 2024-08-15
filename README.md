@@ -42,9 +42,9 @@ Here are some of the key projects featured in my portfolio:
   Featuring a custom background image with eye-catching visuals and smooth animations.
 
 ## 📫 Contact Me
-- **LinkedIn:** [Prashant Singh](https://www.linkedin.com/in/prashant-singh)
-- **GitHub:** [@PrashantSingh](https://github.com/PrashantSingh)
-- **Email:** prashant@example.com
+- **LinkedIn:** [Prashant Singh](https://www.linkedin.com/in/prashant-singh-3b8911161/?trk=opento_sprofile_topcard)
+- **GitHub:** [@PrashantSingh](https://github.com/ps833256)
+- **Email:** ps833256@gmail.com
 
 ---
 
